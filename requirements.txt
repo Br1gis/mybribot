@@ -1,0 +1,11 @@
+discord
+asyncio
+youtube_dl
+requests
+PIL
+io
+json
+sqlite3
+os
+random
+discord_components
